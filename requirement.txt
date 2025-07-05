@@ -1,0 +1,7 @@
+streamlit: Web interface for interactive chatbot
+pandas: For reading and managing CSV local knowledge
+numpy: Numerical arrays, and saving/loading .npy files
+faiss-cpu: Fast vector similarity search for local retrieval
+sentence: transformers :Sentence embeddings for query and knowledge base
+requests: HTTP requests to Serper web search API
+ollama: Interface to chat with your local Ollama LLM
